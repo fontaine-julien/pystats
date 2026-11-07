@@ -94,7 +94,7 @@ Ouvrez ensuite `examples/synthetic_class.sqlite` depuis **Ouvrir une base…**. 
 
 ## Licence et contributions
 
-**Créateur d’origine de PyStats 2** · Julien Fontaine. [Profil GitHub de Julien Fontaine](https://github.com/fontaine-julien) · [Dépôt d’origine de PyStats](https://github.com/fontaine-julien/pystats)
+**Créateur d’origine de PyStats** · Julien Fontaine. [Profil GitHub de Julien Fontaine](https://github.com/fontaine-julien) · [Dépôt d’origine de PyStats](https://github.com/fontaine-julien/pystats)
 
 Le code est libre et gratuit sous [licence MIT](LICENSE). Vous pouvez l’utiliser, le modifier et le redistribuer en conservant la licence et le crédit d’origine, avec le nom de Julien Fontaine et son lien GitHub, dans vos copies.
 
