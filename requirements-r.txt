@@ -1,0 +1,3 @@
+R >= 4.2
+Paquets fournis avec R : stats, graphics, grDevices et utils.
+Facultatif : robustbase, pour estimer le centre robuste du graphique final.

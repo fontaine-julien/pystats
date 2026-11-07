@@ -1,0 +1,20 @@
+{
+  "operations": ["multiplication"],
+  "operand_1_values": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+  "operand_2_values": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+  "n_scored_items": 50,
+  "n_practice_items": 2,
+  "familiarization_enabled": false,
+  "familiarization_protocol": "numpad_copy_v1",
+  "anchor_count": 0,
+  "anchor_source_assessment_id": null,
+  "global_time_limit_s": null,
+  "item_time_limit_s": null,
+  "order_mode": "balanced_random",
+  "assessment_date": "2026-09-01",
+  "academic_period": "P1",
+  "group_id": "classe",
+  "difficulty_categories": ["easy", "medium", "hard"],
+  "random_seed": 20260901,
+  "assessment_version": "1"
+}

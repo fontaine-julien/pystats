@@ -1,0 +1,47 @@
+# Environnements et fichiers temporaires
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.pytest-run*/
+.venv/
+.Rhistory
+.RData
+.Ruserdata
+.env
+.env.*
+Thumbs.db
+.DS_Store
+
+# Bases locales, sauvegardes et exports
+/BDD/
+/extractions/
+/analysis_outputs/
+/examples/
+/output/
+/tmp/
+/.demo-build/
+/.chart-data-*/
+_identities/
+backups/
+*.sqlite
+*.sqlite3
+*.db
+*.sqlite-*
+*.sqlite3-*
+*.db-*
+*.csv
+*.tsv
+*.xlsx
+*.log
+Rplots.pdf
+
+# Seul cet export contient les données fictives destinées au dépôt.
+!/demo/resultats-classe-fictive.csv
+
+# Documents historiques réservés à la copie locale
+/LEGACY_SOURCE_2026-07-31.zip
+/AUDIT_REPORT.md
+/DELIVERABLES.md
+
+# Archives locales hors publication
+/_archives_locales/
