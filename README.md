@@ -92,6 +92,8 @@ Ouvrez ensuite `examples/synthetic_class.sqlite` depuis **Ouvrir une base…**. 
 - [Dictionnaire des données](DATA_DICTIONARY.md) et [confidentialité des exports](ANONYMIZATION_METHOD.md)
 - [Reproduction des analyses et tests](REPRODUCIBILITY.md)
 
+Pour toute interrogation concernant les outils statistiques, leurs usages et interprétations, merci de vous référer au guide du NIST : https://www.itl.nist.gov/div898/handbook/
+
 ## Licence et contributions
 
 **Créateur d’origine de PyStats** · Julien Fontaine. [Profil GitHub de Julien Fontaine](https://github.com/fontaine-julien) · [Dépôt d’origine de PyStats](https://github.com/fontaine-julien/pystats)
