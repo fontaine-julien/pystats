@@ -7,7 +7,7 @@ PyStats est un logiciel de bureau libre et gratuit pour évaluer la fluence en c
 - **Consulter les résultats** dans le tableau de bord, avec des vues par classe et par élève. Les analyses R ajoutent des graphiques et des rapports.
 - **Exporter les données** en CSV pseudonymisés ou sous forme de statistiques agrégées. L’application sépare les identités des résultats dans deux bases locales.
 
-## Est-ce que le programme a été généré partiellement ou intégralement par IA ?
+## Est-ce que le programme a été généré par l'IA ?
 
 Le projet PyStats a été assisté par intelligence artificielle. Mon travail s'est concentré sur l'architecture, la méthode, les outils et les inombrables essais afin de parvenir à une version exploitable.
 
