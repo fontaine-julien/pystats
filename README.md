@@ -1,4 +1,4 @@
-# PyStats 2
+# PyStats
 
 PyStats est un logiciel de bureau libre et gratuit pour évaluer la fluence en calcul. Il permet aux enseignants de préparer des exercices, de suivre les progrès d’une classe ou d’un élève et de comparer la justesse et les temps de réponse au fil des évaluations.
 
@@ -6,6 +6,10 @@ PyStats est un logiciel de bureau libre et gratuit pour évaluer la fluence en c
 - **Faire passer l’épreuve** au pavé numérique, avec deux essais et des limites de temps facultatives. PyStats distingue le délai avant la première touche, la durée de saisie et le temps total.
 - **Consulter les résultats** dans le tableau de bord, avec des vues par classe et par élève. Les analyses R ajoutent des graphiques et des rapports.
 - **Exporter les données** en CSV pseudonymisés ou sous forme de statistiques agrégées. L’application sépare les identités des résultats dans deux bases locales.
+
+## Est-ce que le programme a été généré partiellement ou intégralement par IA ?
+
+Le projet PyStats a été assisté par intelligence artificielle. Mon travail s'est concentré sur l'architecture, la méthode, les outils et les inombrables essais afin de parvenir à une version exploitable.
 
 ## Installation
 
